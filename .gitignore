@@ -136,9 +136,11 @@ pyvenv.cfg
 # Rope project settings
 .ropeproject
 
-# Bin/Lib
+# Crap
 /bin
 /lib
+.DS_Store
+*.png
 
 # mkdocs documentation
 /site
