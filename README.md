@@ -1,5 +1,5 @@
 # QR Wifi
-## Generatres QRCode with wifi and password
+## Generates QRCode with wifi and password
 
 ## Installation
 QR Wifi requires Python3 w/ pyqrcode and pypng libs
