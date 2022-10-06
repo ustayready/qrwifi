@@ -20,7 +20,7 @@ def generate(ssid, password, auth, hidden):
     qr = pyqrcode.create(qr_text)
     qr_file = f'{ssid}.png'
     qr.png(qr_file, scale=5)
-    print(f'[*] Saving QRCode: {qr_file}')
+    print(f'[*] Saved QRCode: {qr_file}')
 
 if __name__ == '__main__':
     main(args)
